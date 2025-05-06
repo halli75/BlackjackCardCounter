@@ -1,5 +1,4 @@
 # BlackjackCardCounter
-# 🃏 Blackjack Card Counting Trainer (JavaFX)
 
 This is a JavaFX-based tool designed to help players practice **Hi-Lo card counting** in blackjack. Players are dealt hands automatically using basic strategy, then must guess the running count. The game tracks performance and provides feedback to improve card counting skills.
 
@@ -18,14 +17,14 @@ This is a JavaFX-based tool designed to help players practice **Hi-Lo card count
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Java JDK 11 or higher
 - JavaFX SDK 11 or higher
 
 ---
 
-## 📦 How to Run
+## How to Run
 
 ### 1. Install Java & JavaFX
 
